@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/matchingjoe-react/static/css/main.e8387a4d.css",
-    "main.js": "/matchingjoe-react/static/js/main.837bfbc7.js",
+    "main.js": "/matchingjoe-react/static/js/main.5c484505.js",
     "index.html": "/matchingjoe-react/index.html",
     "main.e8387a4d.css.map": "/matchingjoe-react/static/css/main.e8387a4d.css.map",
-    "main.837bfbc7.js.map": "/matchingjoe-react/static/js/main.837bfbc7.js.map"
+    "main.5c484505.js.map": "/matchingjoe-react/static/js/main.5c484505.js.map"
   },
   "entrypoints": [
     "static/css/main.e8387a4d.css",
-    "static/js/main.837bfbc7.js"
+    "static/js/main.5c484505.js"
   ]
 }
